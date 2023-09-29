@@ -1,14 +1,30 @@
 html, body {
   margin: 0;
   padding: 0;
+  background: linear-gradient(to-bottom, #00aaff , #ff66b2);
 }
+
 canvas {
   display: block;
 }
+
 h1{
   text-align: center;
-  color: white;
+  font-family:  'pixely Sans', cursive; 
+  text color: rgb(235,17,17);
 }
+
+body{
+  background-color: blue;
+  display: center;
+}
+
 h2{
   text-align:sr;
+} 
+
+main{
+  position: absolute;
+  top: 100px;
+  left: 150px;
 }
