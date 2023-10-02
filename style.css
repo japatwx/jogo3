@@ -15,8 +15,13 @@ h1{
 }
 
 body{
-  background-color: blue;
+  background-color: #EE82EE;
   display: center;
+}
+main{
+  position: absolute;
+  top: 350px;
+  left: 290px;
 }
 
 
