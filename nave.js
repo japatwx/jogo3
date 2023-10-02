@@ -1,7 +1,7 @@
-let xNave = 85;
-let yNave = 366;
-let colisao = false; // Variável global
-let meusPontos = 0; // Inicializa a variável meusPontos com zero
+let xNave = 122;
+let yNave = 415;
+let colisao = false; 
+let meusPontos = 0;
 
 
 
