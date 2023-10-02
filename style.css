@@ -19,7 +19,7 @@ body{
   display: center;
 }
 main{
-  position: absolute;
+  position: relative;
   top: 350px;
   left: 850px;
 }
