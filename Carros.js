@@ -1,6 +1,6 @@
 let xCarros = [600, 600, 600, 600, 600, 600];
 let yCarros = [40, 96, 150, 210, 270, 318];
-let velocidadeCarros = [6, 4.5, 4.0, 6, 3.9, 3.0];
+let velocidadeCarros = [10, 20, 25, 24, 22, 29];
 let comprimentoCarro = 50;
 let alturaCarro = 40;
 
