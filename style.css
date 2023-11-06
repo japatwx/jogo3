@@ -3,25 +3,6 @@ html, body {
   padding: 0;
   background: linear-gradient(to-bottom, #00aaff , #ff66b2);
 }
-
-canvas {
-  display: block;
-}
-
-h1{
-  text-align: center;
-  font-family:  'pixely Sans', cursive; 
-  text color: rgb(235,17,17);
-}
-
 body{
-  background-color: #EE82EE;
-  display: center;
+  text-align: center;
 }
-main{
-  position: absolute;
-  top: 250px;
-  left: 600px;
-}
-
-
