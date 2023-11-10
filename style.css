@@ -1,7 +1,11 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  background: linear-gradient(to-bottom, #00aaff , #ff66b2);
+
+  body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    background: linear-gradient(120deg, #9932CC, #ff2525da);
+    height: 100vh; 
 }
 
 canvas {
@@ -14,10 +18,6 @@ h1{
   text color: rgb(235,17,17);
 }
 
-body{
-  background-color: #EE82EE;
-  display: center;
-}
 main{
   position: absolute;
   top: 250px;
